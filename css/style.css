@@ -857,6 +857,7 @@ footer{
     .new_populaire{
         width: 100%;
         margin-bottom: 30px;
+        border-radius: initial;
     }
 
 
